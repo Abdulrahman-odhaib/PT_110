@@ -4,7 +4,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Abdulrahman-odhaib/Multiple_110.git
    cd Multiple_110
 2. Run the setup script to install dependencies:
   ```bash
