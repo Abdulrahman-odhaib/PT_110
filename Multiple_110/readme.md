@@ -5,7 +5,7 @@
 1. Clone the repository:
    ```bash
      git clone <repository_url>
-     cd <repository_folder>
+     cd Multiple_110
 2. Run the setup script to install dependencies:
   ```bash
     chmod +x setup.sh
