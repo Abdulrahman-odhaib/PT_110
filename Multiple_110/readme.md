@@ -1,9 +1,12 @@
-#Setup Instructions
-git clone <repository_url>
-cd <repository_folder>
+# Light.sh
 
-chmod +x setup.sh
-./setup.sh
+## Setup Instructions
 
-chmod +x light.sh
-./light.sh
+1. Clone the repository:
+   ```bash
+     git clone <repository_url>
+     cd <repository_folder>
+2. Run the setup script to install dependencies:
+  ```bash
+    chmod +x setup.sh
+    ./setup.sh
